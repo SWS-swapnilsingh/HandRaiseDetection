@@ -1,4 +1,4 @@
-# Real-time Pose Detection using YOLO and OpenCV
+# Hand Raise Detection using YOLO and OpenCV
 
 This Python script demonstrates real-time pose detection using the YOLO model and OpenCV. It captures frames from the camera, performs pose detection using YOLO, and annotates the frames with detected keypoints.
 
